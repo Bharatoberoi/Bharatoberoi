@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Bharat Oberoi</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
