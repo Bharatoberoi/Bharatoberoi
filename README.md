@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Bharat Oberoi</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
