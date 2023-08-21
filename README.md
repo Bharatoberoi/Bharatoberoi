@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bharat Oberoi</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatoberoi&label=Profile%20views&color=0e75b6&style=flat" alt="bharatoberoi" /> </p>
 
 - 🔭 I’m currently working on **Python and Vue.js**
